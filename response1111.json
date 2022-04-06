@@ -1,0 +1,67 @@
+{
+  "status": "ok",
+  "categories": [
+    {
+      "id": 1553,
+      "parentId": 0,
+      "name": "Katanas",
+      "slug": "katanas",
+      "level": 1,
+      "positionId": 0,
+      "image": {
+        "thumbs": {
+          "web": {
+            "h100": {
+              "jpg": "images/category/d8c6e4305105e82307e049a35171a8bd/thumbs/web/h100/jpg/e5c0f22f10dcefc628252a44d90cdefd.jpg"
+            }
+          },
+          "mobile": {
+            "w480": {
+              "jpg": "images/category/d8c6e4305105e82307e049a35171a8bd/thumbs/mobile/w480/jpg/00ac3e5480a106b039a22f35b55b454e.jpg"
+            }
+          }
+        },
+        "filePath": "images/category/d8c6e4305105e82307e049a35171a8bd/original.jpg"
+      },
+      "icon": {
+        "thumbs": {
+          "web": {
+            "w20h20": {
+              "png": "images/category/a009f912bc15bc695d0de99d972842a7/thumbs/web/w20h20/png/91b870bda39f6335a13c4cc3028789bc.png"
+            },
+            "w100h100": {
+              "png": "images/category/a009f912bc15bc695d0de99d972842a7/thumbs/web/w100h100/png/86d3abde742b1d6b2a3b44741c5d0495.png"
+            }
+          },
+          "mobile": {
+            "w45": {
+              "png": "images/category/a009f912bc15bc695d0de99d972842a7/thumbs/mobile/w45/png/6f2bac8e09f629aacf6cbab5456a6206.png"
+            }
+          }
+        },
+        "filePath": "images/category/a009f912bc15bc695d0de99d972842a7/original.png"
+      },
+      "status": "active",
+      "translations": {
+        "name": {
+          "en": "Katanas"
+        }
+      },
+      "createdAt": "2021-06-25T11:58:43.038Z",
+      "updatedAt": "2021-07-30T07:02:02.242Z",
+      "childrenIds": [
+        1553,
+        1554,
+        1557,
+        9,
+        10
+      ],
+      "hasChildren": true,
+      "parentsNames": [],
+      "parentIds": [],
+      "parents": []
+    }
+  ],
+  "totalPages": 1,
+  "total": 1
+}
