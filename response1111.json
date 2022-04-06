@@ -63,5 +63,9 @@
     }
   ],
   "totalPages": 1,
-  "total": 1
+  "total": 1,
+  "videos": [
+    12312321,
+    21312
+  ]
 }
